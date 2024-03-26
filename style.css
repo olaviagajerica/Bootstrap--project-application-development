@@ -1,0 +1,19 @@
+
+.img3 {
+  width: 80px;
+  margin-left: 15px;
+  padding-top: 10px;
+  padding-bottom: 5px;
+  margin-top: 10px;
+}
+
+.jerica{
+  width: 10px;
+  margin-left: 10px;
+}
+
+.sam{
+  z-index: 10px;
+  position: absolute;
+}
+
